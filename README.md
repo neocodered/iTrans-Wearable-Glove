@@ -20,3 +20,5 @@ Our team developed an innovative wearable device, iTrans, designed to empower sp
 - Enhances the quality of life for those with speech impairments.
 - Represents a significant advancement in assistive technology.
 - Offers a practical and user-friendly solution for effective communication.
+
+![Prototype](URL)
