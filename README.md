@@ -21,4 +21,4 @@ Our team developed an innovative wearable device, iTrans, designed to empower sp
 - Represents a significant advancement in assistive technology.
 - Offers a practical and user-friendly solution for effective communication.
 
-![Prototype](URL)
+![Prototype](https://github.com/neocodered/iTrans-Wearable-Glove/blob/main/Images/WhatsApp%20Image%202024-07-19%20at%2023.12.47.jpeg)
